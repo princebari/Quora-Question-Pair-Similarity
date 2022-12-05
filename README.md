@@ -15,7 +15,7 @@ This could be useful to instantly provide answers to questions that have already
 
 We are tasked with predicting whether a pair of questions are duplicates or not.
 
-  <h3>Dataset Link<\h3>
+  <h3>Dataset Link</h3>
 Source : https://www.kaggle.com/c/quora-question-pairs
 
 <h3> Objective and Constraints </h3>
